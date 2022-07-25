@@ -34,5 +34,5 @@ Em curso...
 - **Minimax**: adversarial search algorithm.
 
 ### Projetos
-- [Degrees] - (https://github.com/GladsonAmeno/Inteligencia-Artificial-IA-/tree/main/degrees)
+- [Degrees](https://github.com/GladsonAmeno/Inteligencia-Artificial-IA-/tree/main/degrees)
 - [Tic-Tac-Toe] - Em desenvolvimento...
