@@ -1,4 +1,4 @@
-# Project 0a: Degrees
+# Projeto 0a: Degrees
 
 Escreva um programa que determine quantos “graus de separação” existem entre dois atores.
 
