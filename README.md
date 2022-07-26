@@ -1,7 +1,10 @@
 # Meu trabalho na introdução à IA com Python do CS50´s
+# My work on the CS50's Introduction to AI with Python
 
 https://cs50.harvard.edu/ai/
+This course explores the concepts and algorithms underlying modern artificial intelligence, delving into the ideas that give rise to technologies such as game engines, handwriting recognition, and machine translation. Through hands-on projects, students gain exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning, and other topics in artificial intelligence and machine learning as they incorporate them into their own Python programs. At the end of the course, students emerge with experience in libraries for machine learning, as well as knowledge of artificial intelligence principles that allow them to design their own systems.
 
+https://cs50.harvard.edu/ai/
 Este curso explora os conceitos e algoritmos na base da inteligência artificial moderna, mergulhando no
 ideias que dão origem a tecnologias como mecanismos de jogo, reconhecimento de caligrafia e tradução automática.
 Por meio de projetos práticos, os alunos ganham exposição à teoria por trás dos algoritmos de busca em grafos, classificação,
