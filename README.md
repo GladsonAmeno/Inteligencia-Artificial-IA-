@@ -17,11 +17,17 @@ Em curso...
 
 ### Conceitos
 - **Agent**: entity that perceives its environment and acts upon that environment.
+  - **Agente**: Entidade que percebe seu ambiente e age sobre esse ambiente.
 - **State**: a configuration of the agent and its environment.
+  - **Estado**: Uma configuração do agente e seu ambiente.
 - **Actions**: choices that can be made in a state.
+  - **Ações**: Escolhas que podem ser feitas em um estado.
 - **Transition model**: a description of what state results from performing any applicable action in any state.
+  - **Modelo de Transição**: Uma descrição de qual estado resulta da execução de qualquer ação aplicável em qualquer estado.
 - **Path cost**: numerical cost associated with a given path.
+  - **Custo de Caminho**: Custo numérico associado a um determinado caminho.
 - **Evaluation function**: function that estimates the expected utility of the game from a given state.
+  - **Função de Avaliação**: Função que estima a utilidade esperada do jogo a partir de um determinado estado.
 
 ### Algoritmos
 - **DFS** (depth first search): search algorithm that always expands the deepest node in the frontier.
